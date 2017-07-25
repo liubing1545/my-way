@@ -10,17 +10,28 @@
 [docker创建私有仓库](https://github.com/liubing1545/my-way/blob/master/docker创建私有仓库.md)    
 [搭建gitbucket的docker环境](https://github.com/liubing1545/my-way/blob/master/搭建gitbucket的docker环境.md)
 
+## git
+[git删除tag](https://github.com/liubing1545/my-way/blob/master/git删除tag.md)    
+[git撤销merge操作](https://github.com/liubing1545/my-way/blob/master/git撤销merge操作.md)    
+
 ## python
 [pip-freeze](https://github.com/liubing1545/my-way/blob/master/pip-freeze.md)    
-[flask-migrate数据库迁移](https://github.com/liubing1545/my-way/blob/master/flask-migrate数据库迁移.md)    
-[flask-exthook-ExtDeprecationWarning警告的消除](https://github.com/liubing1545/my-way/blob/master/flask-exthook-ExtDeprecationWarning警告的消除.md)    
 [使用virtualenv](https://github.com/liubing1545/my-way/blob/master/使用virtualenv.md)    
+[flask-migrate数据库迁移](https://github.com/liubing1545/my-way/blob/master/flask-migrate数据库迁移.md)    
+[flask-exthook-ExtDeprecationWarning警告的消除](https://github.com/liubing1545/my-way/blob/master/flask-exthook-ExtDeprecationWarning警告的消除.md)        
 
 ## react-native
+[react-native初体验](https://github.com/liubing1545/my-way/blob/master/react-native初体验.md)    
+[react-native与webapi交互](https://github.com/liubing1545/my-way/blob/master/react-native与webapi交互.md)    
 
-## mac
+## mac,linux
+[linux虚拟机磁盘扩容](https://github.com/liubing1545/my-way/blob/master/linux虚拟机磁盘扩容.md)    
+[shell反向删除文件](https://github.com/liubing1545/my-way/blob/master/shell反向删除文件.md)    
+[mac下批量替换文本](https://github.com/liubing1545/my-way/blob/master/mac下批量替换文本.md)    
 
 ## vagrant
+[跨平台开发环境集中管理化之vagrant](https://github.com/liubing1545/my-way/blob/master/跨平台开发环境集中管理化之vagrant.md)    
+[win10启动vagrant](https://github.com/liubing1545/my-way/blob/master/win10启动vagrant.md)    
 
 ## 部署
 [web.py与gunicorn](https://github.com/liubing1545/my-way/blob/master/web.py与gunicorn.md)    
