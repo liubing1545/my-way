@@ -2,13 +2,16 @@
 记录一些技术文档
 
 # 目录
+## machine learning
+[anaconda安装tensorflow](https://github.com/liubing1545/my-way/blob/master/anaconda安装tensorflow.md)    
 
 ## docker
 [docker部署](https://github.com/liubing1545/my-way/blob/master/docker部署.md)    
 [docker设置http代理](https://github.com/liubing1545/my-way/blob/master/docker设置http代理.md)    
 [docker容器启动iptables报错](https://github.com/liubing1545/my-way/blob/master/docker容器启动iptables报错.md)    
 [docker创建私有仓库](https://github.com/liubing1545/my-way/blob/master/docker创建私有仓库.md)    
-[搭建gitbucket的docker环境](https://github.com/liubing1545/my-way/blob/master/搭建gitbucket的docker环境.md)
+[搭建gitbucket的docker环境](https://github.com/liubing1545/my-way/blob/master/搭建gitbucket的docker环境.md)    
+[docker-compose的使用](https://github.com/liubing1545/my-way/blob/master/docker-compose的使用.md)    
 
 ## git
 [git删除tag](https://github.com/liubing1545/my-way/blob/master/git删除tag.md)    
