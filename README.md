@@ -11,7 +11,10 @@
 [docker容器启动iptables报错](https://github.com/liubing1545/my-way/blob/master/docker容器启动iptables报错.md)    
 [docker创建私有仓库](https://github.com/liubing1545/my-way/blob/master/docker创建私有仓库.md)    
 [搭建gitbucket的docker环境](https://github.com/liubing1545/my-way/blob/master/搭建gitbucket的docker环境.md)    
-[docker-compose的使用](https://github.com/liubing1545/my-way/blob/master/docker-compose的使用.md)    
+[docker-compose的使用](https://github.com/liubing1545/my-way/blob/master/docker-compose的使用.md)   
+[配置gitbucket的webhook触发jenkins自动构建](https://github.com/liubing1545/my-way/blob/master/配置gitbucket的webhook触发jenkins自动构建.md)    
+[Docker-outside-of-Docker](https://github.com/liubing1545/my-way/blob/master/Docker-outside-of-Docker.md)    
+[jenkins自动部署docker应用](https://github.com/liubing1545/my-way/blob/master/jenkins自动部署docker应用.md)    
 
 ## git
 [git删除tag](https://github.com/liubing1545/my-way/blob/master/git删除tag.md)    
